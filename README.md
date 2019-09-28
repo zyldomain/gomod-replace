@@ -1,2 +1,3 @@
 # gomod-replace
 go
+gone
