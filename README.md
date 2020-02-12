@@ -2,3 +2,4 @@
 go
 Gond
 gone
+。
